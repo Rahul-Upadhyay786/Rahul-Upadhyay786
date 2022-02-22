@@ -1,4 +1,4 @@
-
+![](https://ar.catalyst.concentrix.com/wp-content/uploads/2019/10/front-end-developer-1609x555.png)
 
 # **\< Rahul Updhyay \/>**
 Hi, I am Rahul Upadhyay. I am a front-end developer. My websites are primarily hand-coded using Javascript, HTML5, and CSS3. With a strong emphasis on "Progressive Enhancement", I look for creative ways to push the boundaries of website's front-end code without compromising on browser support and performance.
